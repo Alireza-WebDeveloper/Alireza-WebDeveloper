@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer - FrontEnd
 -------------
 
-* ✉️  You can contact me at [alirezakh0090@gmail.com](mailto:alirezakh0090@gmail.com)
+* ✉️  You Can Contact Me at [alirezakh0090@gmail.com](mailto:alirezakh0090@gmail.com)
 
 ### Skills
 
