@@ -9,8 +9,7 @@ Front-End Developer With More Than 3 Years Of Experience, Interested In Designin
 ### Skills
 
 
-https://github-readme-streak-stats.herokuapp.com/?user=https://github.com/ProgrammerFront077
-
+https://github-readme-streak-stats.herokuapp.com/?user=ProgrammerFront077
 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="60" height="60" alt="JavaScript" /></a>
