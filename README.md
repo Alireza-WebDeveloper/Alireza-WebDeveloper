@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My Name Is Alireza Khodadadi
 =========================================================================================================================================
 
-Front-End Developer With More Than 3 Years Of Experience, Interested In Designing And Developing Attractive And Unique Web Experiences. Focusing On Creating Stylish And Creative Designs That Will Stay In The Minds Of Visitors
+Front-End developer with more than 3 years of experience, interested in attractive and unique web experiences. focus To create stylish and innovative designs that will last in the minds of visitors. Committed to providing excellence Exceptional results in every project.
 -------------
 
 * ✉️  You Can Contact Me at [alirezakh0090@gmail.com](mailto:alirezakh0090@gmail.com)
