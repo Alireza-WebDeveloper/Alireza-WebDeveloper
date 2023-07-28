@@ -6,7 +6,7 @@ Front-End developer with more than 3 years of experience, interested in attracti
 
 * ✉️  You Can Contact Me at [alirezakh0090@gmail.com](mailto:alirezakh0090@gmail.com)
 
-[![Skill](https://github-readme-tech-stack.vercel.app/api/cards?title=Skill&lineCount=1)
+[![Skill](https://github-readme-tech-stack.vercel.app/api/cards?title=Skill&lineCount=1)]
 ### Skills
 
 
