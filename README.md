@@ -26,6 +26,6 @@ Front-End developer with more than 3 years of experience, interested in attracti
  <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="60" height="60"/> </a>
 </p>
 
-![Alireza GitHub stats](https://github-readme-stats.vercel.app/api?username=ProgrammerFront077&show_icons=true&bg_color=00000000)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/ProgrammerFront077?cardType=level-alternate&theme=radical&preferLogin=false)](https://git.io/awesome-stats-card)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ProgrammerFront077)](https://github.com/ProgrammerFront077/github-readme-stats)
 
