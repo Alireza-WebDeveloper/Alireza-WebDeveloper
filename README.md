@@ -1,18 +1,12 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My Name Is Alireza Khodadadi
 =========================================================================================================================================
 
-Front-End developer with more than 3 years of experience, interested in attractive and unique web experiences. focus To create stylish and innovative designs that will last in the minds of visitors. Committed to providing excellence Exceptional results in every project.
+Front-End developer with more than 3 years of experience, interested in attractive and unique web experiences.
 -------------
 
 * ✉️  You Can Contact Me at [alirezakh0090@gmail.com](mailto:alirezakh0090@gmail.com)
 
 
- ![Alireza GitHub stats](https://github-readme-stats.vercel.app/api?username=ProgrammerFront077&show_icons=true&bg_color=00000000)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ProgrammerFront077)](https://github.com/ProgrammerFront077/github-readme-stats)
-
- [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=ProgrammerFront077&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/ProgrammerFront077/github-readme-stats#gh-dark-mode-only)
- 
 ### Skills
 
 
@@ -30,4 +24,7 @@ Front-End developer with more than 3 years of experience, interested in attracti
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60"/> </a>
  <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="60" height="60"/> </a>
 </p>
+
+![Alireza GitHub stats](https://github-readme-stats.vercel.app/api?username=ProgrammerFront077&show_icons=true&bg_color=00000000)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ProgrammerFront077)](https://github.com/ProgrammerFront077/github-readme-stats)
 
