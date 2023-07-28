@@ -7,12 +7,12 @@ Front-End developer with more than 3 years of experience, interested in attracti
 * ✉️  You Can Contact Me at [alirezakh0090@gmail.com](mailto:alirezakh0090@gmail.com)
 
 
-<p>![Alireza GitHub stats](https://github-readme-stats.vercel.app/api?username=ProgrammerFront077&show_icons=true&bg_color=00000000)
+ ![Alireza GitHub stats](https://github-readme-stats.vercel.app/api?username=ProgrammerFront077&show_icons=true&bg_color=00000000)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ProgrammerFront077)](https://github.com/ProgrammerFront077/github-readme-stats)
 
  [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=ProgrammerFront077&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/ProgrammerFront077/github-readme-stats#gh-dark-mode-only)
-</p>
+ 
 ### Skills
 
 
