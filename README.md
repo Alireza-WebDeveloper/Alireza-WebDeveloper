@@ -28,5 +28,5 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 </p>
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/ProgrammerFront077?cardType=level-alternate&theme=radical&preferLogin=false)](https://git.io/awesome-stats-card)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ProgrammerFront077)](https://github.com/ProgrammerFront077/github-readme-stats)
+ 
 
