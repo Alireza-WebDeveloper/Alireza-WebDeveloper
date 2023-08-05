@@ -6,7 +6,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 # ✉️  You Can Contact Me at [alirezakh0090@gmail.com](mailto:alirezakh0090@gmail.com)
 
- 
+ [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ProgrammerFront077)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Skills
 
