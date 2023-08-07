@@ -1,18 +1,15 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My Name Is Alireza Khodadadi
 =========================================================================================================================================
 
-* Front-End developer with more than 3 years of experience, interested in attractive and unique web experiences.
+*  <p align='center' >Front-End developer with more than 3 years of experience, interested in attractive and unique web experiences.</p>
 -------------
 
-# ✉️  You Can Contact Me at [alirezakh0090@gmail.com](mailto:alirezakh0090@gmail.com)
-
- 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ProgrammerFront077)](https://github.com/ryo-ma/github-profile-trophy)
 
 
+# ✉️  You Can Contact Me at [alirezakh0090@gmail.com](mailto:alirezakh0090@gmail.com)
 
 ### Skills
-
 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="60" height="60" alt="JavaScript" /></a>
