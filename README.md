@@ -31,7 +31,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 
 
-[![graph](https://github-readme-activity-graph.vercel.app/graph?username=ProgrammerFront077)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+[![graph](https://github-readme-activity-graph.vercel.app/graph?username=ProgrammerFront077&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
  
 
