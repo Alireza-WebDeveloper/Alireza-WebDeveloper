@@ -30,7 +30,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 # Activities
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/ProgrammerFront077?cardType=level-alternate&theme=radical&preferLogin=false)](https://git.io/awesome-stats-card)
-# Show daily commits      
+# Show Daily Commits      
 [![graph](https://github-readme-activity-graph.vercel.app/graph?username=ProgrammerFront077&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
  
  
