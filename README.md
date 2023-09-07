@@ -35,3 +35,4 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
  
  
 
+![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
