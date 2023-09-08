@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=32&duration=2000&pause=1000&color=E212F7&background=B823FF00&width=500&lines=Alireza+Khodadadi;Front-End+Developer)](https://git.io/typing-svg))
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=32&duration=2000&pause=1000&color=E212F7&background=B823FF00&width=500&lines=Alireza+Khodadadi;Front-End+Developer)](https://git.io/typing-svg)
 =========================================================================================================================================
 
   <p align='center' >Front-End developer with more than 4 years of experience, interested in attractive and unique web experiences.</p>
