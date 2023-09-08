@@ -9,9 +9,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
  
 ## Skills
 
-<p align="left">
-  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-</p>
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+ 
 
 ## Achievements
 [![trophy](https://github-profile-trophy.vercel.app/?username=ProgrammerFront077)](https://github.com/ryo-ma/github-profile-trophy)
