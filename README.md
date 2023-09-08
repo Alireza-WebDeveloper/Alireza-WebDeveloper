@@ -1,4 +1,4 @@
-  Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My Name Is Alireza Khodadadi
+   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=2000&pause=1000&color=E212F7&background=B823FF00&center=true&vCenter=true&width=435&lines=Alireza+Khodadadi)](https://git.io/typing-svg)
 =========================================================================================================================================
 
   <p align='center' >Front-End developer with more than 4 years of experience, interested in attractive and unique web experiences.</p>
