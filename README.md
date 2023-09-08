@@ -2,8 +2,10 @@
 =========================================================================================================================================
 
   <p align='center' >Front-End developer with more than 4 years of experience, interested in attractive and unique web experiences.</p>
-  
-   # ✉️  You Can Contact Me at [alirezakh0362@gmail.com](mailto:alirezakh0090@gmail.com)
+
+  <a href='https://www.linkedin.com/in/alireza-webdeveloper/'>
+    <img src='https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white'/>
+  </a>
 
  
  
