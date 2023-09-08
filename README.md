@@ -3,12 +3,14 @@
 
   <p align='center' >Front-End developer with more than 4 years of experience, interested in attractive and unique web experiences.</p>
 
-  <a href='https://www.linkedin.com/in/alireza-webdeveloper/'>
+  <p align='center'>
+    <a href='https://www.linkedin.com/in/alireza-webdeveloper/'>
     <img src='https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white'/>
   </a>
  <a href='https://portfolioweb.iran.liara.run'>
    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"/>
  </a>
+  </p>
  
 ## Skills
   ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
