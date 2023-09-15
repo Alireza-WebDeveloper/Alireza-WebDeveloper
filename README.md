@@ -1,5 +1,5 @@
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=32&duration=2000&pause=1000&color=E212F7&background=B823FF00&width=500&lines=Alireza+Khodadadi;Front-End+Developer)] 
- (https://git.io/typing-svg) 
+ 
  
 
 <img src='https://myoctocat.com/assets/images/base-octocat.svg' width='20' height='20'/>
