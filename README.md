@@ -4,6 +4,11 @@
  ![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg)
 
 
+
+```javascript
+const a = 1;
+```
+
   <p align='center' >Front-End developer with more than 4 years of experience, interested in attractive and unique web experiences.</p>
 
   <p align='center'>
