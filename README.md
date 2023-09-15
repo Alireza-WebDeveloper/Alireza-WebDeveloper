@@ -5,8 +5,15 @@
 
 
 
-```javascript
-const a = 1;
+```typescript
+Import {FC} From 'React';
+Interface AboutProps{
+ Name:String;
+}
+const About : FC<AboutProps> = ({Name}) : JSX.Element =>{
+ Return <p ClassName='capitalize'>{Name}</p>
+}
+export default About;
 ```
 
   <p align='center' >Front-End developer with more than 4 years of experience, interested in attractive and unique web experiences.</p>
