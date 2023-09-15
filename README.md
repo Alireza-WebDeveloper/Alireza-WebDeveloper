@@ -8,10 +8,10 @@
   ```typescript
 import {FC} From 'React';
 interface AboutProps{
- Name:String;
+ name:string;
 }
-const About : FC<AboutProps> = ({Name}) : JSX.Element =>{
- Return <p ClassName='capitalize'>{Name}</p>
+const About : FC<AboutProps> = ({name}) : JSX.Element =>{
+ Return <p ClassName='capitalize'>{name}</p>
 }
 export default About;
 ```
