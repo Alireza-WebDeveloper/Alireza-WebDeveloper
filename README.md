@@ -3,7 +3,16 @@
  
 
   <p align='center' >Front-End developer with more than 4 years of experience, interested in attractive and unique web experiences.</p>
-
+  ```typescript
+import {FC} From 'React';
+interface AboutProps{
+ Name:String;
+}
+const About : FC<AboutProps> = ({Name}) : JSX.Element =>{
+ Return <p ClassName='capitalize'>{Name}</p>
+}
+export default About;
+```
   <p align='center'>
     <a href='https://www.linkedin.com/in/alireza-webdeveloper/'>
     <img src='https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white'/>
