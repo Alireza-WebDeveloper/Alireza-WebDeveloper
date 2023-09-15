@@ -6,8 +6,8 @@
 
 
 ```javascript
-Import {FC} From 'React';
-Interface AboutProps{
+import {FC} From 'React';
+interface AboutProps{
  Name:String;
 }
 const About : FC<AboutProps> = ({Name}) : JSX.Element =>{
