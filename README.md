@@ -5,7 +5,7 @@
 
 
 
-```javascript
+```typescript
 import {FC} From 'React';
 interface AboutProps{
  Name:String;
