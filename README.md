@@ -59,7 +59,7 @@ export default About;
 
 ## Achievements
 
-  https://github-profile-trophy.vercel.app/?username=ProgrammerFront077&theme=onedark 
+ [ https://github-profile-trophy.vercel.app/?username=ProgrammerFront077&theme=onedark ](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=gruvbox)
 
 ## Activities
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/ProgrammerFront077?cardType=level-alternate&theme=radical&preferLogin=false)](https://git.io/awesome-stats-card)
