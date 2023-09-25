@@ -55,11 +55,7 @@ export default About;
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
-
-
-## Achievements
-
- [ https://github-profile-trophy.vercel.app/?username=ProgrammerFront077&theme=onedark ](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=gruvbox)
+ 
 
 ## Activities
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/ProgrammerFront077?cardType=level-alternate&theme=radical&preferLogin=false)](https://git.io/awesome-stats-card)
