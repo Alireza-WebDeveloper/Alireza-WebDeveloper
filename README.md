@@ -56,10 +56,6 @@ export default About;
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ProgrammerFront077&hide_progress=true)
- 
-
 ## Activities
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/ProgrammerFront077?cardType=level-alternate&theme=radical&preferLogin=false)](https://git.io/awesome-stats-card)
  
