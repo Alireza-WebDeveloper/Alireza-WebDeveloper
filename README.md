@@ -58,7 +58,7 @@ export default About;
 
 
 ## Achievements
-[![trophy](https://github-profile-trophy.vercel.app/?username=ProgrammerFront077)](https://github.com/ryo-ma/github-profile-trophy)
+https://github-profile-trophy.vercel.app/?username=ProgrammerFront077=true
 
 ## Activities
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/ProgrammerFront077?cardType=level-alternate&theme=radical&preferLogin=false)](https://git.io/awesome-stats-card)
