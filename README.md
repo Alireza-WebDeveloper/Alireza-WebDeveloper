@@ -3,7 +3,7 @@
  
 
   <p align='center' >Front-End developer with more than 4 years of experience, interested in attractive and unique web experiences.</p>
-<img align="right" width='100%' src="https://raw.githubusercontent.com/imrrobat/imrrobat/d1b244e170d2b75fdda3efd499eaaf163f7a617c/images/github-contribution-grid-snake.svg" />
+
   
   ```typescript
 import {FC} From 'React';
