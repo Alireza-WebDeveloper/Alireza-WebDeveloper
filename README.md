@@ -15,7 +15,7 @@ const About : FC<AboutProps> = ({name}) : JSX.Element =>{
 }
 export default About;
 ```
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ProgrammerFront077&show_icons=true&theme=radical)
+
 
   <p align='center'>
     <a href='https://www.linkedin.com/in/alireza-webdeveloper/'>
