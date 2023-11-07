@@ -49,12 +49,15 @@ export default About;
   ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
   ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
   ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
- [![trophy](https://github-profile-trophy.vercel.app/?username=ProgrammerFront077&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 ## Back-End
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
+## Achievement
+ [![trophy](https://github-profile-trophy.vercel.app/?username=ProgrammerFront077&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+ 
 ## Activities
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/ProgrammerFront077?cardType=level-alternate&theme=radical&preferLogin=false)](https://git.io/awesome-stats-card)
  
