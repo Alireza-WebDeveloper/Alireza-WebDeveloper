@@ -2,7 +2,7 @@
 =========================================================================================================================================  
  
 
-  <p align='center'>Full-Stack developer with more than 4 years of Front-End experience and less than one year of Back-End experience, interested in developing attractive and unique web experiences. Focusing on creating stylish and innovative designs that will last in the minds of visitors.</p>
+  <p align='center'>Full-Stack developer with more than 5 years of Front-End experience and less than one year of Back-End experience, interested in developing attractive and unique web experiences. Focusing on creating stylish and innovative designs that will last in the minds of visitors.</p>
 
   
   ```typescript
