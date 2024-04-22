@@ -49,7 +49,7 @@ export default About;
   ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
   ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
   ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-  ![StoryBook](https://img.shields.io/badge/Storybook-Expert-FF4785?logo=storybook)
+  ![StoryBook](https://img.shields.io/badge/Storybook-Expert-FF4785?logo=storybook&logoColor=white)
 
 
 ## Back-End
