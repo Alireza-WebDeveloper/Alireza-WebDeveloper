@@ -15,20 +15,6 @@ const About : FC<AboutProps> = ({name}) : JSX.Element =>{
 }
 export default About;
 ```
-
-
-  <p align='center'>
-    <a href='https://www.linkedin.com/in/webdev-hdex/'>
-    <img src='https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white'/>
-  </a>
- <a href='https://portfolioweb.iran.liara.run'>
-   <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"/>
- </a>
-    <a href="mailto:alirezakh0362@gmail.com">
-      <img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white'/>
-    </a>
-  </p>
- 
 ## Front-End
   ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
