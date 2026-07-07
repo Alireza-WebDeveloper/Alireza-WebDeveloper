@@ -56,7 +56,5 @@ export default me;
  ![](https://github-readme-streak-stats.herokuapp.com/?user=Alireza-Webdeveloper&theme=dracula&hide_border=false)
 ## Activities
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Alireza-Webdeveloper?cardType=level-alternate&theme=radical&preferLogin=false)](https://git.io/awesome-stats-card)
- - 🎓 **CS50x: Introduction to Computer Science – Harvard University**  
-  https://cs50.harvard.edu/x/
  
  
