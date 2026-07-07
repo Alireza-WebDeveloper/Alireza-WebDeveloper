@@ -6,14 +6,21 @@
 
   
   ```typescript
-import {FC} From 'React';
-interface AboutProps{
- name:string;
-}
-const About : FC<AboutProps> = ({name}) : JSX.Element =>{
- Return <p ClassName='capitalize'>{name}</p>
-}
-export default About;
+type Developer = {
+  name: string;
+  role: "Web Developer";
+  focus: "Front-End";
+  stack: ["React", "Next.js", "TypeScript", "MERN"];
+};
+
+const me: Developer = {
+  name: "Alireza Khodadadi",
+  role: "Web Developer",
+  focus: "Front-End",
+  stack: ["React", "Next.js", "TypeScript", "MERN"],
+};
+
+export default me;
 ```
 ## Front-End
   ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
