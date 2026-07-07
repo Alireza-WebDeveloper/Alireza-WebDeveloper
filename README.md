@@ -44,7 +44,6 @@ export default About;
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
 ## Achievement
- [![trophy](https://github-profile-trophy.vercel.app/?username=Alireza-Webdeveloper&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
  ![](https://github-readme-streak-stats.herokuapp.com/?user=Alireza-Webdeveloper&theme=dracula&hide_border=false)
 ## Activities
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Alireza-Webdeveloper?cardType=level-alternate&theme=radical&preferLogin=false)](https://git.io/awesome-stats-card)
